@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Rebuild64
+N64 sticks tend to fail - let's rebuild them!
 
-You can use the [editor on GitHub](https://github.com/herzogf/rebuild64/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Intro
+This repo's aim is to gather information on how to rebuild loose and worn analog sticks on an original (OEM) Nintendo 64 controller. Thus aftermarket / third party controllers or complete third party stick modules (i.e. without any original part / part design ) are out of scope.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Rebuild64 page strives to repair the original stick module (bowl, gears, stick, spring) by fixing or replacing individual parts in order to maintain the original look & feel as much as possible while getting rid of all the wobbly flip-flopping from years of playing great games like Super Mario 64, Goldeneye or (behold) Mario Party.
 
-### Markdown
+## General construction of the N64 stick module
+The stick module generally consists of an outer case made of two plastic parts which holds the core components:
+- bowl (white/ivory color plastic)
+- 2 gears (black plastic)
+- 2 optical encoder wheels (black plastic)
+- stick (grey plastic)
+- spring (steel)
+- "separating" ring, correct name to be found :sweat_smile: (white plastic)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The interaction between the first 4 parts in the list can be seen in the great reddit post [How an N64 analog stick works](https://www.reddit.com/r/gaminggifs/comments/9hrsvc/how_an_n64_analog_stick_works/). In addition [an article by NFGworld](https://web.archive.org/web/20170107110048/https://nfgworld.com/mb/thread/447-Nintendo-s-N64-Pad-What-s-Inside) contains some nice pictures of the module's details.
 
-```markdown
-Syntax highlighted code block
+As the bowl, gears and stick touch and rub on each other constantly AND are made of plastic they wear down pretty quickly. Generally those are the components you want to replace or repair to restore proper functionality.
 
-# Header 1
-## Header 2
-### Header 3
+## High level steps to rebuild a stick module
 
-- Bulleted
-- List
+Viewed from a thousand miles high those are the basic steps to rebuild a N64 stick module:
 
-1. Numbered
-2. List
+- disassembling and cleaning
+- repairing / replacing of
+    - the whole module
+    - the bowl
+    - the gears
+    - the stick
+- testing
+- lubricating
+- reassembling
 
-**Bold** and _Italic_ and `Code` text
+In the future each list element points to separate pages containing detailed information, but not yet :wink:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/herzogf/rebuild64/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Collaboration
+Feel free to add or correct content by simply [creating a pull request](https://github.com/herzogf/rebuild64/pulls). This repo is put under the Creative Commons Attribution-NonCommercial-ShareAlike license to keep this hopefully useful information open to all us N64 fans :smiley:
