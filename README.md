@@ -1,12 +1,9 @@
-# Rebuild64
-N64 sticks tend to fail - let's rebuild them!
-
-## Intro
+# Intro to Rebuild64
 This repo's aim is to gather information on how to rebuild loose and worn analog sticks on an original (OEM) Nintendo 64 controller. Thus aftermarket / third party controllers or complete third party stick modules (i.e. without any original part / part design ) are out of scope.
 
 This Rebuild64 page strives to repair the original stick module (bowl, gears, stick, spring) by fixing or replacing individual parts in order to maintain the original look & feel as much as possible while getting rid of all the wobbly flip-flopping from years of playing great games like Super Mario 64, Goldeneye or (behold) Mario Party.
 
-## General construction of the N64 stick module
+# General construction of the N64 stick module
 The stick module generally consists of an outer case made of two plastic parts which holds the core components:
 - bowl (white/ivory color plastic)
 - 2 gears (black plastic)
@@ -19,7 +16,7 @@ The interaction between the first 4 parts in the list can be seen in the great r
 
 As the bowl, gears and stick touch and rub on each other constantly AND are made of plastic they wear down pretty quickly. Generally those are the components you want to replace or repair to restore proper functionality.
 
-## High level steps to rebuild a stick module
+# High level steps to rebuild a stick module
 
 Viewed from a thousand miles high those are the basic steps to rebuild a N64 stick module:
 
@@ -35,5 +32,5 @@ Viewed from a thousand miles high those are the basic steps to rebuild a N64 sti
 
 In the future each list element points to separate pages containing detailed information, but not yet :wink:
 
-## Collaboration
+# Collaboration
 Feel free to add or correct content by simply [creating a pull request](https://github.com/herzogf/rebuild64/pulls). This repo is put under the Creative Commons Attribution-NonCommercial-ShareAlike license to keep this hopefully useful information open to all us N64 fans :smiley:
