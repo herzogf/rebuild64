@@ -26,6 +26,8 @@ Up to now for all tests the [3D models created by eL_maN](https://www.thingivers
 
 The following table lists all samples as of 2021/03/24. Click on the ID to jump to the details page of the specific print. For details for the 3D printing techniques and materials see [Additive and subtractive manufacturing](../crosscutting/manufacturing.md).
 
+Hint: This table is [best viewed directly on GitHub](https://github.com/herzogf/rebuild64/blob/main/gears/gears.md#3d-printing-new-gears).
+
 | ID | Gear type | Gear model | 3D printing technique | Material | (Post) Processing | Sample pricing 1/10/100 parts (year) | Comments | Internal Note |
 | ---| --- | --- | --- | --- | --- | --- | --- | --- |
 | 001 | both | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | MJF | PA12 grey | - | each 5€ / - / - (2021) | <details>good details on teeth, rough / abrasive surface, needed sanding/polishing</details> | RO-20210228 |
