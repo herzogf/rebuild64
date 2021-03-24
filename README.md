@@ -36,4 +36,4 @@ Viewed from a thousand miles high those are the basic steps to rebuild a N64 sti
 In the future each list element points to separate pages containing detailed information, but not yet :wink:
 
 ## Collaboration
-Feel free to add or correct content by simply creating a pull request. The repo is put under the Creative Commons Attribution-NonCommercial-ShareAlike license to keep all information open for all us N64 fans :smiley:
+Feel free to add or correct content by simply creating a pull request. This repo is put under the Creative Commons Attribution-NonCommercial-ShareAlike license to keep this hopefully useful information open to all us N64 fans :smiley:
