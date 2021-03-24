@@ -11,8 +11,6 @@ The OEM gears are generally hard to fix as they're very delicate and have small 
 
 ## Buying new gears
 
-:construction:
-
 - [N64 "Joystick Links" (gears) on Shapeways](https://www.shapeways.com/product/3VBPPB9LQ/n64-joystick-links)
 - permanently sold out (out of business?)
     - [kitsch-bent](https://store.kitsch-bent.com/)
