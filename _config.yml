@@ -1,4 +1,5 @@
 # taken from https://nicolas-van.github.io/easy-markdown-to-github-pages/
+theme: jekyll-theme-architect
 plugins:
   - jekyll-relative-links
 relative_links:
