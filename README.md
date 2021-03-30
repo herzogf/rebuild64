@@ -1,5 +1,5 @@
 # Intro to Rebuild64
-This repo's aim is to gather information on how to rebuild loose and worn analog sticks on an original (OEM) Nintendo 64 controller. Thus aftermarket / third party controllers or complete third party stick modules (i.e. without any original part / part design ) are out of scope.
+This repo's aim is to gather information on how to rebuild loose and worn analog sticks on an original (OEM) Nintendo 64 controller. Thus aftermarket / third party controllers (i.e. without any original parts) are out of scope.
 
 I strive to repair the original stick module (bowl, gears, stick, spring) by fixing or replacing individual parts in order to maintain the original look & feel as much as possible while getting rid of all the wobbly flip-flopping from years of playing great games like Super Mario 64, Goldeneye or (behold) Mario Party.
 
