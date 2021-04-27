@@ -12,6 +12,7 @@ The OEM gears are generally hard to fix as they're very delicate and have small 
 ## Buying new gears
 
 - [Biinny BrewStix](https://www.etsy.com/de/shop/BrewStix)
+- [n64gears.com](https://www.n64gears.com)
 - [N64 "Joystick Links" (gears) on Shapeways; see ID 008 in table below as this is clearly 3D printed](https://www.shapeways.com/product/3VBPPB9LQ/n64-joystick-links)
 - permanently sold out (no new stock in the last few months)
     - [kitsch-bent](https://store.kitsch-bent.com/)
