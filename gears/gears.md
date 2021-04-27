@@ -11,11 +11,11 @@ The OEM gears are generally hard to fix as they're very delicate and have small 
 
 ## Buying new gears
 
+- [Biinny BrewStix](https://www.etsy.com/de/shop/BrewStix)
 - [N64 "Joystick Links" (gears) on Shapeways; see ID 008 in table below as this is clearly 3D printed](https://www.shapeways.com/product/3VBPPB9LQ/n64-joystick-links)
-- permanently sold out (out of business?)
+- permanently sold out (no new stock in the last few months)
     - [kitsch-bent](https://store.kitsch-bent.com/)
     - [stang boy customs](https://store.stangboycustoms.com/collections/all/products/replacement-n64-gears-v1b3)
-    - [Biinny BrewStix](https://www.etsy.com/de/shop/BrewStix)
 
 ## 3D printing new gears
 
@@ -30,7 +30,7 @@ The results of all the test prints / orders are listed in the comparison table a
 
 ## Comparison table
 
-The following table lists all samples gathered for rebuild64 as of 2021/04/23. Click on the ID to jump to the details page of the specific print / ordered part. For details of specific 3D printing techniques and materials see [Additive and subtractive manufacturing](../crosscutting/manufacturing.md).
+The following table lists all samples gathered for rebuild64 as of 2021/04/23. Click on the ID to jump to the details page of the specific print / ordered part (later on, now content right now :construction:). For details of specific 3D printing techniques and materials see [Additive and subtractive manufacturing](../crosscutting/manufacturing.md).
 
 Hint: This table is [best viewed directly on GitHub](https://github.com/herzogf/rebuild64/blob/main/gears/gears.md#comparison-table).
 
@@ -47,7 +47,7 @@ Hint: This table is [best viewed directly on GitHub](https://github.com/herzogf/
 | G009 | large | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | Binder Jetting | High-Detail Stainless Steel (316L) | Satin | 49.28 € / 49.28 € / 49.28 € (2021) | - | IM-20210304 |
 | G010 | small | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | MJF | Nylon / Polyamide | Natural polished | 14.75 € / 12.32 € / 12.08 € (2021) | - | IM-20210304 |
 | G011 | small | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | Lost-Wax Casting (Metal) | Brass | - | 13.19 € / 11.47 € / 11.12 € (2021) | - | IM-20210304 |
-| G012 | both | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | Polyjet (16µm / 0.016mm layer height) | Resin RGD515 / RGD531 = Digital ABS | - | each gear - / 9.2 € / 2.7 € (2021) | - | PA-20210305 |
+| G012 | both | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | Polyjet (16µm / 0.016mm layer height) | Resin RGD515 / RGD531 = Digital ABS | - | each gear >10 € / 9.2 € / 2.7 € (2021) | - | PA-20210305 |
 | G013 | large | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | DUP / LCD | Tough Resin Gray | - | 5 € / 2.53 € / 2.53 € (2021) | - | VS-20210308 |
 | G014 | large | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | DUP / LCD | Rigid Resin Black | - | 5 € / 2.87 € / 2.87 € (2021) | - | VS-20210308 |
 | G015 | large | [eL_maN](https://www.thingiverse.com/thing:3053523/files) | FDM | PETG Purple | - | 7.5 € / - / - (2021) | - | VS-20210308 |
